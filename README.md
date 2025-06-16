@@ -43,13 +43,5 @@ This GitHub profile is where I’ll document my progress and share what I build 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AYOUB-CODING1&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYOUB-CODING1&layout=compact&theme=dark" height="150"/>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/AYOUB-CODING1"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=AYOUB&color=blue"></a>
-  <a href="https://github.com/AYOUB-CODING1/AYOUB-CODING1/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=green"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AYOUB-CODING1&show_icons=true&theme=dark" height="170"/>
 </p>
