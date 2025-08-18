@@ -1,42 +1,52 @@
 <h1 align="center">Hey there, I'm AYOUB 👋</h1>
 
 <p align="center">
-  🇲🇦 From Morocco | 👨‍💻 Python Beginner | 🔐 Cybersecurity Enthusiast
+  🇲🇦 From Morocco | 🐍 Intermediate in Python | 🔐 Junior Web App Pentester | 🎓 CS50x Certified
 </p>
 
 ---
 
-## 🚀 About This Profile
+## 🚀 About Me
 
-I'm a young self-taught learner, currently starting my journey in **Python** and **Cybersecurity**.  
-This GitHub profile is where I’ll document my progress and share what I build along the way.
+I'm a self-taught learner passionate about cybersecurity and Python development.  
+Currently, I’m a Junior Web Application Penetration Tester, aiming to grow into a Senior Pentester before I turn 18.  
 
-📌 **Goal**: Become a professional before turning **18 years old**.
-
----
-
-## 📚 What I’ll Be Sharing
-
-- Small Python projects and scripts
-- Notes and ideas from my cybersecurity learning
-- Tools and code I build or experiment with
-- Honest progress updates
+🎯 My focus is on Web Application Security, automation with Python, and mastering penetration testing methodologies.
 
 ---
 
 ## 🧰 Current Skills
 
-- 👶 Beginner in Python programming
-- 🔐 Learning ethical hacking and cybersecurity fundamentals
-- 🧠 Exploring networking, Linux, and scripting
+- 🐍 Intermediate in Python (automation, scripting, security tools)  
+- 🔐 Web Application Penetration Testing (Junior level) – familiar with OWASP Top 10 (SQLi, XSS, LFI/RFI, etc.)  
+- 🐧 Comfortable with Linux environments (Kali, NetHunter)  
+- 🌐 Knowledge in Networking fundamentals  
+- 🎓 Completed Harvard CS50x (Computer Science Fundamentals)
 
 ---
 
-## 🎯 Next Steps
+## 🏆 Certifications & Achievements
 
-- Build small Python tools to automate tasks
-- Practice on virtual machines with Kali Linux & NetHunter
-- Learn how networks and vulnerabilities work
+- 🎓 **CS50x – Harvard University** (Computer Science Fundamentals)  
+- 🔐 **Cisco Certified Ethical Hacker (CEH)**
+
+---
+
+## 📚 What I’m Working On
+
+- Building custom Python security tools  
+- Practicing bug bounty & CTF challenges  
+- Deepening skills in BurpSuite, automation scripts, and exploit development  
+- Sharing notes and write-ups about pentesting methodologies  
+
+---
+
+## 🎯 Next Steps in My Journey
+
+- 🛠️ Develop more advanced Python tools for pentesting  
+- 📑 Improve vulnerability reporting & documentation skills  
+- 📚 Work towards certifications like OSCP / eJPT  
+- 🚀 Transition from Junior → Mid-Level → Senior before 18  
 
 ---
 
